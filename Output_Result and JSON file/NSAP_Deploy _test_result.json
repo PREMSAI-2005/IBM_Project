@@ -1,0 +1,42 @@
+[
+	{
+		"fields": [
+			"prediction",
+			"probability"
+		],
+		"values": [
+			[
+				"IGNDPS",
+				[
+					1,
+					0,
+					0
+				]
+			],
+			[
+				"IGNOAPS",
+				[
+					0,
+					1,
+					0
+				]
+			],
+			[
+				"IGNWPS",
+				[
+					0,
+					0,
+					1
+				]
+			],
+			[
+				"IGNOAPS",
+				[
+					0,
+					1,
+					0
+				]
+			]
+		]
+	}
+]
